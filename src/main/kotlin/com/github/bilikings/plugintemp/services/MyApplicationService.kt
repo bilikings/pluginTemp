@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bilikings.plugintemp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bilikings.plugintemp.MyBundle
 
 class MyApplicationService {
 
